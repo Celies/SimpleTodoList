@@ -6,8 +6,6 @@ There are no memory functionality, so the list is lost when the app is closed.
 
 The project was made in Eclipse, using Java 16 and JUnit 5. 
 
-Author: Viktor Svensson
-
-E-mail: wiktor_sv@hotmail.com
-
-Twitter: @Celies11
+Author: Viktor Svensson  
+E-mail: wiktor_sv@hotmail.com  
+Twitter: @Celies11  
